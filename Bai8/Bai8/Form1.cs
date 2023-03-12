@@ -21,7 +21,12 @@ namespace Bai8
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Close();
+            string message = "Bạn có muốn thoát hay không ?";
+            string title = "Kim Thi Thông Báo";
+            DialogResult thongBao = MessageBox.Show(message, title, MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+            if (thongBao == DialogResult.Yes)
+                this.Close();
         }
 
         private void button1_Click(object sender, EventArgs e)
