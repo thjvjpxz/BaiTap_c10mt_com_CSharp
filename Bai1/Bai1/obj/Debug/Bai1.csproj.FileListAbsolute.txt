@@ -1,0 +1,9 @@
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\bin\Debug\Bai1.exe.config
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\bin\Debug\Bai1.exe
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\bin\Debug\Bai1.pdb
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.Cache
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\obj\Debug\Bai1.exe
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\obj\Debug\Bai1.pdb
+E:\C#_TLU\WINFORM\BT_c10mt_com\Bai1\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
